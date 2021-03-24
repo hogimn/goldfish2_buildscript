@@ -1,0 +1,7 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/raspberrypi/linux
+	branch = rpi-4.19.y
+[submodule "tools"]
+	path = tools
+	url = https://github.com/raspberrypi/tools
